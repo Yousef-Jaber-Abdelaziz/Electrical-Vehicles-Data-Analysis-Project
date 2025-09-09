@@ -39,7 +39,7 @@ The Electrical Vehicles Analysis project is a cloud-based data engineering solut
     </td>
     <td align="center">
       <b>Logical Model</b><br>
-      <img src="Data Models/Logical Model.png" width="450" height="600"/>
+      <img src="Data Models/Logical Model.png" width="450" height="800"/>
     </td>
   </tr>
 </table>  
