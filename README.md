@@ -127,3 +127,12 @@ The Power BI dashboard provides insights across multiple views:
 
 ## 🙏 Acknowledgment  
 Thank you for reviewing this project. This work was completed as part of my professional training and demonstrates the use of **data engineering & BI practices** to analyze the growing **electrical vehicle industry**.  
+
+## 📂 Project Documentation  
+
+<p align="center">
+  <a href="Documentation/Yousef Jaber Abdulaziz.pdf">
+    <img src="https://img.shields.io/badge/For%20More%20Details-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
+
