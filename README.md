@@ -104,21 +104,21 @@ The Power BI dashboard provides insights across multiple views:
   <tr>
     <td align="center">
       <b>Dashboard Home Page</b><br>
-      <img src="PowerBI/Dashboard_Home.png" width="300"/>
+      <img src="PowerBI Report/Dashboard as Screenshots/Home Page.png" width="300"/>
     </td>
     <td align="center">
       <b>Overview Page</b><br>
-      <img src="PowerBI/Overview_Page.png" width="300" />
+      <img src="PowerBI Report/Dashboard as Screenshots/Overview Page (1).png" width="300" />
     </td>
     <td align="center">
       <b>Sales Analysis</b><br>
-      <img src="PowerBI/Sales_Analysis.png" width="300"/>
+      <img src="PowerBI Report/Dashboard as Screenshots/Sales Analysis Page (2).png" width="300"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>Battery Analysis</b><br>
-      <img src="PowerBI/Battery_Analysis.png" width="300"/>
+      <img src="PowerBI Report/Dashboard as Screenshots/Battery Analysis Page.png" width="300"/>
     </td>
   </tr>
 </table>  
